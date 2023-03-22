@@ -1,2 +1,2 @@
 # Geotechnical_Data_Validation
-Validate geological/geotechinical parameters description
+Geological/geotechnical parameters description validation.
